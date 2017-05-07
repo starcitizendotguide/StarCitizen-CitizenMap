@@ -1,1 +1,1466 @@
-{"Spain":{"amount":258,"region":{"C\u00f3rdoba":4,"Barcelona":22,"Ciudad Real":1,"Castell\u00f3n":1,"Baleares":5,"Catalunya":13,"M\u00e1laga":6,"Madrid":25,"Palencia":1,"\u00c1lava":1,"Guip\u00fazcoa":3,"A Coru\u00f1a":3,"C\u00e1diz":3,"Vizcaya":4,"Canarias":5,"Melilla":6,"Andaluc\u00eda":6,"Murcia":3,"Burgos":1,"Granada":4,"Pa\u00eds Vasco":3,"Las Palmas":3,"Asturias":5,"La Rioja":1,"Galicia":2,"Huesca":2,"Castilla y Le\u00f3n":1,"Valenciana":4,"Valencia":4,"Santa Cruz de Tenerife":3,"Pontevedra":1,"Le\u00f3n":3,"Navarra":2,"Girona":1,"Valladolid":1,"Albacete":1,"Sevilla":5,"Almer\u00eda":3,"Alicante":2,"Tarragona":1},"unknown":93,"relative_amount":"0.033943"},"United States":{"amount":2477,"unknown":1140,"region":{"Maryland":23,"Arizona":38,"Hawaii":10,"California":186,"Minnesota":27,"Oregon":46,"Texas":140,"New York":67,"Arkansas":13,"Florida":108,"Connecticut":7,"Mississippi":10,"Georgia":37,"Washington":73,"Kentucky":11,"Kansas":8,"Illinois":36,"New Jersey":25,"Louisiana":15,"Colorado":43,"Michigan":24,"Ohio":29,"Indiana":17,"Iowa":10,"Virginia":41,"Nevada":22,"Wisconsin":18,"Nebraska":7,"Maine":3,"Oklahoma":23,"Missouri":17,"Massachusetts":30,"Pennsylvania":27,"Montana":10,"Delaware":3,"North Carolina":39,"North Dakota":4,"Alabama":10,"New Hampshire":9,"District of Columbia":8,"Utah":17,"Tennessee":13,"South Carolina":6,"New Mexico":6,"Idaho":6,"Vermont":1,"South Dakota":2,"West Virginia":3,"Wyoming":2,"Alaska":5,"Rhode Island":1,"Puerto Rico":1},"relative_amount":"0.325878"},"Germany":{"amount":964,"region":{"Bayern":89,"Baden-W\u00fcrttemberg":48,"Nordrhein-Westfalen":107,"Berlin":39,"Hamburg":37,"Rheinland-Pfalz":20,"Hessen":34,"Saarland":3,"Niedersachsen":37,"Sachsen-Anhalt":7,"Sachsen":16,"Mecklenburg-Vorpommern":7,"Bremen":8,"Schleswig-Holstein":20,"Th\u00fcringen":4,"Brandenburg":2},"unknown":486,"relative_amount":"0.126825"},"France":{"amount":380,"unknown":203,"region":{"Marne":1,"Bouches-du-Rh\u00f4ne":2,"Bretagne":13,"\u00cele-de-France":16,"Loire":3,"Manche":1,"Is\u00e8re":2,"Bourgogne":10,"Lorraine":4,"Paris":16,"Dr\u00f4me":1,"Bas-Rhin":3,"Aquitaine":13,"Gard":1,"Var":3,"Haute-Garonne":4,"Seine-et-Marne":2,"Haute-Normandie":3,"Maine-et-Loire":1,"Rh\u00f4ne-Alpes":5,"Champagne-Ardenne":1,"Hauts-de-Seine":1,"Rh\u00f4ne":3,"Alsace":5,"Provence-Alpes-C\u00f4te-d'Azur":7,"Ain":1,"Languedoc-Roussillon":4,"Limousin":2,"Nord":4,"Vienne":1,"Centre":3,"Poitou-Charentes":3,"C\u00f4te-d'Or":1,"Essonne":3,"Pyr\u00e9n\u00e9es-Atlantiques":1,"Pays-de-la-Loire":2,"Aveyron":1,"Loiret":1,"Basse-Normandie":2,"Alpes-Maritimes":1,"Auvergne":4,"Oise":1,"Gironde":1,"Loz\u00e8re":1,"Ni\u00e8vre":1,"Charente-Maritime":1,"Nord-Pas-de-Calais":3,"Finist\u00e8re":3,"Midi-Pyr\u00e9n\u00e9es":1,"Dordogne":1,"Jura":1,"Pas-de-Calais":1,"Mayenne":1,"Alpes-de-Haute-Provence":1,"Eure":1,"Yvelines":1,"Aisne":1,"Guyane (fran\u00e7aise) (see also separate entry under GF)":1,"Sarthe":1},"relative_amount":"0.049993"},"Slovenia":{"amount":12,"region":{"Kr\u0161ko":1,"Novo mesto":1,"Ljubljana":1,"Ivancna Gorica":1,"Maribor":1,"\u0160kofja Loka":1},"unknown":6,"relative_amount":"0.001579"},"United Kingdom":{"amount":524,"region":{"Edinburgh":1,"Dorset":3,"West Sussex":5,"Cheshire":9,"Surrey":9,"London":29,"Northumberland":1,"Wales":13,"Devon":7,"Scotland":23,"Birmingham":5,"Shetland Islands":1,"Nottinghamshire":2,"Herefordshire":1,"Hampshire":6,"Nottingham":3,"England":17,"Lincolnshire":4,"Reading":2,"Strabane":1,"Plymouth":3,"Buckinghamshire":3,"Bournemouth":1,"Essex":6,"Dudley":1,"Hertfordshire":3,"Warwickshire":3,"Northamptonshire":4,"Portsmouth":1,"Cornwall":2,"Staffordshire":5,"Greenwich":2,"Torfaen [Tor-faen]":1,"Liverpool":4,"Kent":6,"Sandwell":1,"Bath and North East Somerset":1,"North Yorkshire":1,"Durham":1,"Manchester":11,"Bradford":1,"Richmond upon Thames":1,"West Lothian":1,"Somerset":3,"Fife":2,"Wokingham":2,"Sunderland":1,"Solihull":1,"Sheffield":1,"Salford":1,"Belfast":1,"Bracknell Forest":1,"Midlothian":1,"Lancashire":7,"York":1,"Derby":1,"East Renfrewshire":1,"East Sussex":3,"Cardiff [Caerdydd GB-CRD]":1,"Northern Ireland":1,"Shropshire":1,"Cambridgeshire":3,"Suffolk":2,"Derbyshire":1,"Leicestershire":1,"Gateshead":1,"Bedfordshire":1,"North Ayrshire":1,"Cumbria":2,"Coventry":2,"Oxfordshire":1,"Newcastle upon Tyne":1,"Glasgow City":1,"Bristol":3,"Leeds":2,"Norfolk":2,"Aberdeenshire":1,"Highland":1,"Stoke-on-Trent":1,"Southampton":1,"Islington":1,"Leicester":2,"North Lincolnshire":1,"Omagh":1,"Wiltshire":1},"unknown":255,"relative_amount":"0.068938"},"Denmark":{"amount":71,"unknown":63,"region":{"Zeeland":1,"Capital":5,"Central Jutland":1,"North Jutland":1},"relative_amount":"0.009341"},"Italy":{"amount":77,"unknown":32,"region":{"Roma":9,"Campania":1,"Umbria":1,"Treviso":1,"Lodi":1,"Firenze":1,"Veneto":3,"Toscana":3,"Lombardia":3,"Abruzzo":1,"Emilia-Romagna":1,"Modena":1,"Catania":1,"Livorno":2,"Bolzano":1,"Piemonte":2,"Parma":1,"Sardegna":2,"Salerno":1,"Milano":3,"Lazio":2,"Mantova":1,"Cosenza":1,"Trentino-Alto Adige":1,"Como":1},"relative_amount":"0.010130"},"Romania":{"amount":11,"unknown":7,"region":{"Bucuresti":1,"Cluj":1,"Galati":1,"Iasi":1},"relative_amount":"0.001447"},"Indonesia":{"amount":3,"unknown":1,"region":{"Jakarta Raya":2},"relative_amount":"0.000395"},"Australia":{"amount":262,"region":{"Western Australia":16,"Queensland":35,"Victoria":34,"South Australia":9,"New South Wales":42,"Northern Territory":1,"Tasmania":5,"Australian Capital Territory":7},"unknown":113,"relative_amount":"0.034469"},"Sweden":{"amount":116,"region":{"Sk\u00e5ne l\u00e4n [SE-12]":4,"V\u00e4sterbottens l\u00e4n [SE-24]":1,"Stockholms l\u00e4n [SE-01]":23,"V\u00e4stra G\u00f6talands l\u00e4n [SE-14]":6,"Blekinge l\u00e4n [SE-10]":1,"Kalmar l\u00e4n [SE-08]":2,"\u00d6rebro l\u00e4n [SE-18]":2,"J\u00f6nk\u00f6pings l\u00e4n [SE-06]":3,"Hallands l\u00e4n [SE-13]":2,"Norrbottens l\u00e4n [SE-25]":4,"J\u00e4mtlands l\u00e4n [SE-23]":1,"Kronobergs l\u00e4n [SE-07]":1,"Uppsala l\u00e4n [SE-03]":1,"Dalarnas l\u00e4n [SE-20]":1},"unknown":64,"relative_amount":"0.015261"},"Belgium":{"amount":58,"region":{"Brussels":8,"Li\u00e8ge":3,"Oost-Vlaanderen":5,"West-Vlaanderen":2,"Vlaams Brabant":3,"Antwerpen":6,"Limburg":1,"Hainaut":1,"Namur":1,"Luxembourg":1},"unknown":27,"relative_amount":"0.007631"},"Poland":{"amount":34,"unknown":19,"region":{"Dolnoslaskie":4,"Slaskie":3,"Mazowieckie":3,"Kujawsko-pomorskie":1,"Podlaskie":1,"Zachodniopomorskie":2,"Malopolskie":1},"relative_amount":"0.004473"},"United Arab Emirates":{"amount":9,"unknown":6,"region":{"Dubayy [Dubai]":3},"relative_amount":"0.001184"},"Netherlands":{"amount":167,"region":{"Friesland":3,"Zuid-Holland":16,"Noord-Holland":13,"Gelderland":6,"Overijssel":5,"Groningen":4,"Drenthe":6,"Zeeland":1,"Noord-Brabant":8,"Utrecht":6,"Limburg":4,"Flevoland":1},"unknown":94,"relative_amount":"0.021971"},"Canada":{"amount":351,"region":{"Ontario":65,"Quebec":49,"Alberta":25,"British Columbia":50,"Nova Scotia":6,"Newfoundland and Labrador":2,"Saskatchewan":4,"New Brunswick":2,"Manitoba":4},"unknown":144,"relative_amount":"0.046178"},"Austria":{"amount":80,"region":{"Vorarlberg":5,"Ober\u00f6sterreich":4,"Steiermark":4,"Wien":15,"Tirol":4,"Nieder\u00f6sterreich":5,"Burgenland":1,"Salzburg":2,"K\u00e4rnten":2},"unknown":38,"relative_amount":"0.010525"},"Russian Federation":{"amount":140,"region":{"Moskva":29,"Arkhangel'skaya oblast'":2,"Sankt-Peterburg":10,"Amurskaya oblast'":1,"Novosibirskaya oblast'":3,"Krasnodarskiy kray":5,"Khabarovskiy kray":2,"Primorskiy kray":3,"Ul'yanovskaya oblast'":1,"Samarskaya oblast'":2,"Sverdlovskaya oblast'":2,"Voronezhskaya oblast'":1,"Kaluzhskaya oblast'":1,"Kareliya":1,"Krasnoyarskiy kray":1,"Volgogradskaya oblast'":1,"Tyumenskaya oblast'":1,"Kirovskaya oblast'":1,"Udmurtskaya Respublika":1,"Saratovskaya oblast'":1,"Ryazanskaya oblast'":1,"Mariy El":1,"Rostovskaya oblast'":1,"Moskovskaya oblast'":1,"Yaroslavskaya oblast'":1,"Omskaya oblast'":1,"Tul'skaya oblast'":1,"Irkutskaya oblast'":1},"unknown":63,"relative_amount":"0.018419"},"Finland":{"amount":49,"unknown":38,"region":{"Uusimaa":8,"Etel\u00e4-Pohjanmaa":1,"Pirkanmaa":2},"relative_amount":"0.006447"},"Panama":{"amount":1,"region":{"Panam\u00e1":1},"relative_amount":"0.000132"},"Switzerland":{"amount":122,"unknown":71,"region":{"Bern (de)":10,"Thurgau (de)":2,"Vaud (fr)":3,"Z\u00fcrich (de)":12,"Valais (fr)":2,"Aargau (de)":3,"Graub\u00fcnden (de)":1,"Luzern (de)":1,"Gen\u00e8ve (fr)":3,"Jura (fr)":1,"Sankt Gallen (de)":2,"Basel-Landschaft (de)":2,"Zug (de)":1,"Schaffhausen (de)":1,"Ticino (it)":1,"Uri (de)":1,"Basel-Stadt (de)":4,"Solothurn (de)":1},"relative_amount":"0.016051"},"Czech Republic":{"amount":26,"unknown":12,"region":{"Praha 4":1,"Jihomoravsk\u00fd kraj":1,"Praha":1,"Brno-m\u011bsto":3,"Praha 5":1,"Stredocesk\u00fd kraj":2,"Zl\u00ednsk\u00fd kraj":1,"Praha 7":1,"Praha 8":1,"Praha 11":1,"Vysocina":1},"relative_amount":"0.003421"},"China":{"amount":26,"unknown":16,"region":{"Guangdong":1,"Beijing":2,"Sichuan":2,"Hubei":2,"Shanghai":2,"Anhui":1},"relative_amount":"0.003421"},"Brazil":{"amount":29,"region":{"Rio de Janeiro":5,"Rio Grande do Norte":1,"Mato Grosso do Sul":1,"Minas Gerais":1,"S\u00e3o Paulo":6,"Santa Catarina":2,"Paran\u00e1":1,"Rio Grande do Sul":1,"Para\u00edba":1,"Par\u00e1":1},"unknown":9,"relative_amount":"0.003815"},"Singapore":{"amount":10,"unknown":10,"relative_amount":"0.001316"},"Bulgaria":{"amount":11,"region":{"Vratsa":1,"Sofia":3,"Sofia-Grad":1,"Montana":1},"unknown":5,"relative_amount":"0.001447"},"New Zealand":{"amount":48,"region":{"Auckland":15,"Taranaki":1,"Canterbury":2,"Otago":1,"Northland":1,"Wellington":2,"Marlborough District":1,"Waikato":1,"South Island":1,"North Island":1},"unknown":22,"relative_amount":"0.006315"},"Isle of Man":{"amount":2,"unknown":2,"relative_amount":"0.000263"},"Jordan":{"amount":1,"region":{"Al Balqa'":1},"relative_amount":"0.000132"},"Norway":{"amount":90,"region":{"Nordland":3,"M\u00f8re og Romsdal":3,"Oslo":6,"Vest-Agder":4,"Hordaland":5,"Vestfold":2,"\u00d8stfold":2,"Rogaland":3,"Finnmark":2,"Hedmark":1,"Telemark":1,"Akershus":1},"unknown":57,"relative_amount":"0.011841"},"Japan":{"amount":25,"region":{"T\u00f4ky\u00f4 [Tokyo]":11,"Kanagawa":3,"Niigata":1,"Ky\u00f4to [Kyoto]":1,"\u00d4saka [Osaka]":1,"Okinawa":1},"unknown":7,"relative_amount":"0.003289"},"Argentina":{"amount":21,"region":{"Chaco":1,"Buenos Aires":12,"Ciudad Aut\u00f3noma de Buenos Aires":1,"C\u00f3rdoba":1},"unknown":6,"relative_amount":"0.002763"},"Serbia":{"amount":4,"unknown":3,"region":{"Belgrade":1},"relative_amount":"0.000526"},"Estonia":{"amount":5,"region":{"Tartumaa":1,"Harjumaa":1},"unknown":3,"relative_amount":"0.000658"},"Slovakia":{"amount":6,"region":{"\u017dilinsk\u00fd kraj":1,"Bratislavsk\u00fd kraj":1},"unknown":4,"relative_amount":"0.000789"},"Ireland":{"amount":24,"unknown":15,"region":{"Dublin":4,"Cork":1,"Sligo":1,"Waterford":1,"Galway":1,"Munster":1},"relative_amount":"0.003157"},"Korea":{"amount":10,"region":{"Republic of":10},"relative_amount":"0.001316"},"Thailand":{"amount":4,"unknown":3,"region":{"Krung Thep Maha Nakhon [Bangkok]":1},"relative_amount":"0.000526"},"South Africa":{"amount":29,"region":{"Gauteng":12,"Western Cape":9,"Kwazulu-Natal":2,"Mpumalanga":1},"unknown":5,"relative_amount":"0.003815"},"Colombia":{"amount":4,"unknown":3,"region":{"Cundinamarca":1},"relative_amount":"0.000526"},"Portugal":{"amount":20,"unknown":9,"region":{"Lisboa":4,"Viana do Castelo":1,"Porto":1,"Coimbra":2,"Castelo Branco":1,"Aveiro":2},"relative_amount":"0.002631"},"Croatia":{"amount":11,"region":{"Zagrebacka \u017eupanija":3,"Grad Zagreb":2,"Osjecko-baranjska \u017eupanija":1,"Medimurska \u017eupanija":1},"unknown":4,"relative_amount":"0.001447"},"Uganda":{"amount":1,"region":{"Dokolo":1},"relative_amount":"0.000132"},"Somalia":{"amount":1,"unknown":1,"relative_amount":"0.000132"},"Bahamas":{"amount":1,"unknown":1,"relative_amount":"0.000132"},"Greece":{"amount":13,"region":{"Attiki":7,"Thessaloniki":1},"unknown":5,"relative_amount":"0.001710"},"Malaysia":{"amount":3,"region":{"Selangor":1,"Pulau Pinang":1},"unknown":1,"relative_amount":"0.000395"},"Cayman Islands":{"amount":1,"region":{"George Town":1},"relative_amount":"0.000132"},"Sri Lanka":{"amount":3,"unknown":3,"relative_amount":"0.000395"},"Syrian Arab Republic":{"amount":1,"region":{"As Suwayda'":1},"relative_amount":"0.000132"},"Mexico":{"amount":4,"unknown":3,"region":{"M\u00e9xico":1},"relative_amount":"0.000526"},"Taiwan":{"amount":4,"region":{"Province Of China":4},"relative_amount":"0.000526"},"Hungary":{"amount":18,"unknown":10,"region":{"Baranya":1,"Budapest":4,"Tolna":1,"Veszpr\u00e9m City":1,"Csongr\u00e1d":1},"relative_amount":"0.002368"},"Antarctica":{"amount":6,"unknown":6,"relative_amount":"0.000789"},"Egypt":{"amount":1,"unknown":1,"relative_amount":"0.000132"},"Puerto Rico":{"amount":2,"unknown":2,"relative_amount":"0.000263"},"Honduras":{"amount":2,"unknown":1,"region":{"Comayagua":1},"relative_amount":"0.000263"},"Trinidad and Tobago":{"amount":3,"unknown":3,"relative_amount":"0.000395"},"Virgin Islands":{"amount":1,"region":{"U.S.":1},"relative_amount":"0.000132"},"Kazakhstan":{"amount":2,"unknown":1,"region":{"Atyrau oblysy":1},"relative_amount":"0.000263"},"Ukraine":{"amount":25,"unknown":13,"region":{"Ky\u00efv":6,"Kharkivs'ka Oblast'":1,"Odes'ka Oblast'":1,"Luhans'ka Oblast'":1,"Dnipropetrovs'ka Oblast'":1,"Zaporiz'ka Oblast'":1,"Donets'ka Oblast'":1},"relative_amount":"0.003289"},"Israel":{"amount":12,"unknown":8,"region":{"HaMerkaz":1,"HaZafon":1,"Tel-Aviv":2},"relative_amount":"0.001579"},"Lebanon":{"amount":1,"region":{"Beirut":1},"relative_amount":"0.000132"},"Fiji":{"amount":1,"unknown":1,"relative_amount":"0.000132"},"India":{"amount":3,"region":{"Karnataka":1,"Maharashtra":1},"unknown":1,"relative_amount":"0.000395"},"Cura\u00e7ao":{"amount":1,"unknown":1,"relative_amount":"0.000132"},"Philippines":{"amount":2,"region":{"National Capital Region":1,"Nueva Ecija":1},"relative_amount":"0.000263"},"Svalbard And Jan Mayen":{"amount":2,"unknown":2,"relative_amount":"0.000263"},"Hong Kong":{"amount":6,"unknown":6,"relative_amount":"0.000789"},"Ecuador":{"amount":1,"unknown":1,"relative_amount":"0.000132"},"Lithuania":{"amount":5,"unknown":4,"region":{"Vilniaus Apskritis":1},"relative_amount":"0.000658"},"New Caledonia":{"amount":1,"unknown":1,"relative_amount":"0.000132"},"Turkey":{"amount":10,"region":{"Mugla":1,"Istanbul":5,"Kocaeli":1},"unknown":3,"relative_amount":"0.001316"},"United States Minor Outlying Islands":{"amount":1,"unknown":1,"relative_amount":"0.000132"},"Angola":{"amount":1,"region":{"Luanda":1},"relative_amount":"0.000132"},"Andorra":{"amount":1,"unknown":1,"relative_amount":"0.000132"},"Barbados":{"amount":3,"unknown":3,"relative_amount":"0.000395"},"Latvia":{"amount":4,"region":{"Riga":2},"unknown":2,"relative_amount":"0.000526"},"Georgia":{"amount":2,"region":{"Tbilisi":1},"unknown":1,"relative_amount":"0.000263"},"Chile":{"amount":2,"region":{"Regi\u00f3n Metropolitana de Santiago":1,"Valpara\u00edso":1},"relative_amount":"0.000263"},"Faroe Islands":{"amount":2,"unknown":2,"relative_amount":"0.000263"},"Iran":{"amount":1,"region":{"Islamic Republic Of":1},"relative_amount":"0.000132"},"Nigeria":{"amount":1,"region":{"Lagos":1},"relative_amount":"0.000132"},"American Samoa":{"amount":1,"unknown":1,"relative_amount":"0.000132"},"Morocco":{"amount":1,"unknown":1,"relative_amount":"0.000132"},"Dominican Republic":{"amount":1,"unknown":1,"relative_amount":"0.000132"},"Congo":{"amount":1,"region":{"The Democratic Republic Of The":1},"relative_amount":"0.000132"},"Cyprus":{"amount":2,"unknown":2,"relative_amount":"0.000263"},"Viet Nam":{"amount":1,"region":{"Ha Noi":1},"relative_amount":"0.000132"},"Uruguay":{"amount":1,"region":{"San Jos\u00e9":1},"relative_amount":"0.000132"},"Nicaragua":{"amount":1,"region":{"Le\u00f3n":1},"relative_amount":"0.000132"},"R\u00e9union":{"amount":2,"unknown":2,"relative_amount":"0.000263"},"Malta":{"amount":2,"region":{"Pembroke":1},"unknown":1,"relative_amount":"0.000263"},"Iceland":{"amount":2,"unknown":2,"relative_amount":"0.000263"},"Saint Helena":{"amount":1,"region":{"Ascension and Tristan Da Cunha":1},"relative_amount":"0.000132"},"Jersey":{"amount":2,"unknown":2,"relative_amount":"0.000263"},"Venezuela":{"amount":1,"region":{"Bolivarian Republic of":1},"relative_amount":"0.000132"},"Bangladesh":{"amount":2,"unknown":1,"region":{"Dhaka":1},"relative_amount":"0.000263"},"Luxembourg":{"amount":3,"unknown":3,"relative_amount":"0.000395"},"Macedonia":{"amount":1,"region":{"the Former Yugoslav Republic Of":1},"relative_amount":"0.000132"},"Oman":{"amount":1,"region":{"Masqat":1},"relative_amount":"0.000132"},"Belarus":{"amount":2,"region":{"Minskaya voblasts":1},"unknown":1,"relative_amount":"0.000263"},"Namibia":{"amount":1,"region":{"Khomas":1},"relative_amount":"0.000132"},"Guyana":{"amount":1,"unknown":1,"relative_amount":"0.000132"},"Bosnia and Herzegovina":{"amount":1,"region":{"Tuzlanski kanton":1},"relative_amount":"0.000132"},"French Polynesia":{"amount":1,"unknown":1,"relative_amount":"0.000132"}}
+{
+  "Spain": {
+    "amount": 354,
+    "region": {
+      " C\u00f3rdoba": 4,
+      " Melilla": 8,
+      " Ciudad Real": 1,
+      " Catalunya": 16,
+      " Castell\u00f3n": 1,
+      " Baleares": 7,
+      " M\u00e1laga": 10,
+      " Palencia": 1,
+      " \u00c1lava": 1,
+      " A Coru\u00f1a": 3,
+      " Vizcaya": 4,
+      " Canarias": 6,
+      " Andaluc\u00eda": 9,
+      " Alicante": 4,
+      " Murcia": 2,
+      " Barcelona": 31,
+      " Cantabria": 1,
+      " Granada": 4,
+      " Las Palmas": 3,
+      " Pa\u00eds Vasco": 3,
+      " Galicia": 5,
+      " Valencia": 6,
+      " Madrid": 21,
+      " Guip\u00fazcoa": 5,
+      " Santa Cruz de Tenerife": 5,
+      " Pontevedra": 2,
+      " Le\u00f3n": 3,
+      " Sevilla": 8,
+      " C\u00e1diz": 4,
+      " Almer\u00eda": 3,
+      " Tarragona": 2,
+      " Huesca": 2,
+      " Burgos": 1,
+      " Girona": 2,
+      " La Rioja": 1,
+      " Castilla y Le\u00f3n": 1,
+      " Ceuta": 1,
+      " Valladolid": 1,
+      " Albacete": 1
+    },
+    "unknown": 161,
+    "relative_amount": 0.032917984005951,
+    "per_capita": 0.0012779069443876
+  },
+  "United States": {
+    "amount": 4013,
+    "unknown": 1812,
+    "region": {
+      " Arizona": 71,
+      " Ohio": 62,
+      " Alaska": 9,
+      " Hawaii": 13,
+      " California": 306,
+      " Minnesota": 37,
+      " Colorado": 69,
+      " Oregon": 84,
+      " New York": 97,
+      " Florida": 164,
+      " Illinois": 61,
+      " Connecticut": 9,
+      " Georgia": 67,
+      " Texas": 226,
+      " Washington": 126,
+      " Kentucky": 15,
+      " New Jersey": 41,
+      " South Carolina": 16,
+      " Louisiana": 27,
+      " District of Columbia": 11,
+      " Michigan": 50,
+      " Iowa": 15,
+      " North Carolina": 63,
+      " Nevada": 34,
+      " Wisconsin": 35,
+      " Puerto Rico": 2,
+      " Massachusetts": 46,
+      " Maryland": 30,
+      " Missouri": 32,
+      " Arkansas": 16,
+      " Pennsylvania": 42,
+      " Virginia": 62,
+      " Indiana": 27,
+      " North Dakota": 8,
+      " New Hampshire": 11,
+      " Tennessee": 30,
+      " Utah": 26,
+      " Montana": 18,
+      " Delaware": 6,
+      " Oklahoma": 29,
+      " Rhode Island": 7,
+      " New Mexico": 10,
+      " Mississippi": 11,
+      " Kansas": 15,
+      " Alabama": 26,
+      " Nebraska": 9,
+      " Wyoming": 3,
+      " Idaho": 8,
+      " West Virginia": 8,
+      " Maine": 7,
+      " Vermont": 2,
+      " South Dakota": 2
+    },
+    "relative_amount": 0.37316347405617,
+    "per_capita": 0.0020766754044624
+  },
+  "Germany": {
+    "amount": 1470,
+    "region": {
+      " Bayern": 129,
+      " Hessen": 57,
+      " Nordrhein-Westfalen": 159,
+      " Hamburg": 54,
+      " Baden-W\u00fcrttemberg": 80,
+      " Berlin": 60,
+      " Th\u00fcringen": 9,
+      " Rheinland-Pfalz": 24,
+      " Sachsen-Anhalt": 9,
+      " Sachsen": 20,
+      " Schleswig-Holstein": 32,
+      " Niedersachsen": 52,
+      " Bremen": 11,
+      " Brandenburg": 5,
+      " Mecklenburg-Vorpommern": 11,
+      " Saarland": 6
+    },
+    "unknown": 752,
+    "relative_amount": 0.13669332341454,
+    "per_capita": 0.0030136442140815
+  },
+  "France": {
+    "amount": 561,
+    "unknown": 291,
+    "region": {
+      " Provence-Alpes-C\u00f4te-d'Azur": 14,
+      " Bretagne": 25,
+      " \u00cele-de-France": 23,
+      " Manche": 1,
+      " Is\u00e8re": 4,
+      " Bourgogne": 10,
+      " Lorraine": 7,
+      " Paris": 23,
+      " Bas-Rhin": 3,
+      " Pays-de-la-Loire": 5,
+      " Haute-Garonne": 4,
+      " Marne": 2,
+      " Midi-Pyr\u00e9n\u00e9es": 4,
+      " Seine-et-Marne": 2,
+      " Pyr\u00e9n\u00e9es-Orientales": 1,
+      " Aquitaine": 14,
+      " Hauts-de-Seine": 1,
+      " Alsace": 7,
+      " Rh\u00f4ne": 6,
+      " Nord": 5,
+      " Rh\u00f4ne-Alpes": 12,
+      " Poitou-Charentes": 4,
+      " C\u00f4te-d'Or": 1,
+      " Pyr\u00e9n\u00e9es-Atlantiques": 1,
+      " Essonne": 5,
+      " Centre": 5,
+      " H\u00e9rault": 6,
+      " Loiret": 1,
+      " Yvelines": 3,
+      " Var": 3,
+      " Val-d'Oise": 1,
+      " Loire-Atlantique": 2,
+      " Haute-Savoie": 2,
+      " Gironde": 2,
+      " Loz\u00e8re": 1,
+      " Ni\u00e8vre": 1,
+      " Nord-Pas-de-Calais": 3,
+      " Finist\u00e8re": 3,
+      " Languedoc-Roussillon": 6,
+      " Pas-de-Calais": 1,
+      " Picardie": 1,
+      " Loire": 3,
+      " Aisne": 2,
+      " Mayenne": 1,
+      " Auvergne": 5,
+      " Alpes-de-Haute-Provence": 1,
+      " Savoie": 1,
+      " Haute-Normandie": 4,
+      " Guyane (fran\u00e7aise) (see also separate entry under GF)": 1,
+      " Bouches-du-Rh\u00f4ne": 2,
+      " Dr\u00f4me": 2,
+      " Gard": 1,
+      " Maine-et-Loire": 2,
+      " Champagne-Ardenne": 2,
+      " Ain": 1,
+      " Limousin": 2,
+      " Vienne": 1,
+      " Aveyron": 1,
+      " Basse-Normandie": 2,
+      " Alpes-Maritimes": 1,
+      " Oise": 1,
+      " Charente-Maritime": 1,
+      " Dordogne": 1,
+      " Corr\u00e8ze": 1,
+      " Jura": 1,
+      " Indre": 1,
+      " Haute-Sa\u00f4ne": 1,
+      " Eure": 1,
+      " Charente": 1,
+      " Sarthe": 1
+    },
+    "relative_amount": 0.052166635670448,
+    "per_capita": 0.0014097605149734
+  },
+  "Sweden": {
+    "amount": 184,
+    "unknown": 105,
+    "region": {
+      " V\u00e4sterbottens l\u00e4n [SE-24]": 1,
+      " Dalarnas l\u00e4n [SE-20]": 3,
+      " V\u00e4stra G\u00f6talands l\u00e4n [SE-14]": 13,
+      " Stockholms l\u00e4n [SE-01]": 28,
+      " Kalmar l\u00e4n [SE-08]": 2,
+      " \u00d6rebro l\u00e4n [SE-18]": 2,
+      " Norrbottens l\u00e4n [SE-25]": 6,
+      " Sk\u00e5ne l\u00e4n [SE-12]": 9,
+      " V\u00e4rmlands l\u00e4n [SE-17]": 1,
+      " Hallands l\u00e4n [SE-13]": 2,
+      " Blekinge l\u00e4n [SE-10]": 2,
+      " J\u00e4mtlands l\u00e4n [SE-23]": 2,
+      " J\u00f6nk\u00f6pings l\u00e4n [SE-06]": 3,
+      " Kronobergs l\u00e4n [SE-07]": 1,
+      " \u00d6sterg\u00f6tlands l\u00e4n [SE-05]": 2,
+      " Uppsala l\u00e4n [SE-03]": 2
+    },
+    "relative_amount": 0.017109912590664,
+    "per_capita": 0.0031173126517384
+  },
+  "Slovenia": {
+    "amount": 18,
+    "unknown": 11,
+    "region": {
+      " Novo mesto": 1,
+      " Kr\u0161ko": 1,
+      " Ljubljana": 1,
+      " Ivancna Gorica": 1,
+      " Slovenska Bistrica": 1,
+      " Maribor": 1,
+      " \u0160kofja Loka": 1
+    },
+    "relative_amount": 0.0016737957969128,
+    "per_capita": 0.0014618293528234
+  },
+  "United Kingdom": {
+    "amount": 845,
+    "unknown": 464,
+    "region": {
+      " Cheshire": 11,
+      " Surrey": 13,
+      " Scotland": 37,
+      " Essex": 11,
+      " West Sussex": 6,
+      " Leeds": 5,
+      " Hampshire": 9,
+      " Wales": 17,
+      " Northern Ireland": 3,
+      " Nottingham": 5,
+      " England": 31,
+      " North East Lincolnshire": 1,
+      " Highland": 2,
+      " Manchester": 18,
+      " Plymouth": 3,
+      " Buckinghamshire": 4,
+      " Bournemouth": 2,
+      " Northamptonshire": 6,
+      " Portsmouth": 2,
+      " Cornwall": 4,
+      " Lancashire": 13,
+      " Staffordshire": 7,
+      " Greenwich": 3,
+      " Lincolnshire": 5,
+      " Torfaen [Tor-faen]": 1,
+      " Devon": 11,
+      " Midlothian": 3,
+      " Kent": 8,
+      " Sandwell": 1,
+      " Shropshire": 3,
+      " Haringey": 1,
+      " Durham": 1,
+      " Gloucestershire": 1,
+      " Bradford": 1,
+      " Richmond upon Thames": 1,
+      " Somerset": 5,
+      " Wokingham": 2,
+      " Milton Keynes": 1,
+      " Solihull": 1,
+      " Worcestershire": 4,
+      " Barnsley": 2,
+      " Salford": 1,
+      " Bracknell Forest": 1,
+      " Dorset": 5,
+      " Leicester": 3,
+      " Birmingham": 7,
+      " Derby": 1,
+      " Glasgow City": 3,
+      " East Sussex": 5,
+      " Cambridgeshire": 4,
+      " Derbyshire": 3,
+      " Wiltshire": 2,
+      " Leicestershire": 2,
+      " Norfolk": 7,
+      " Bedfordshire": 3,
+      " Fife": 2,
+      " Cumbria": 2,
+      " Coventry": 2,
+      " Liverpool": 6,
+      " Reading": 3,
+      " Hertfordshire": 6,
+      " Oxfordshire": 2,
+      " Newcastle upon Tyne": 1,
+      " Aberdeenshire": 1,
+      " Nottinghamshire": 5,
+      " Stoke-on-Trent": 1,
+      " Southampton": 1,
+      " Islington": 1,
+      " Clackmannanshire": 1,
+      " Suffolk": 5,
+      " North Yorkshire": 2,
+      " North Lincolnshire": 1,
+      " Northumberland": 1,
+      " Shetland Islands": 1,
+      " Strabane": 1,
+      " Dudley": 1,
+      " Warwickshire": 4,
+      " York": 2,
+      " Windsor and Maidenhead": 1,
+      " Bath and North East Somerset": 1,
+      " West Lothian": 1,
+      " Sunderland": 1,
+      " Sheffield": 3,
+      " Belfast": 1,
+      " East Renfrewshire": 1,
+      " Cardiff [Caerdydd GB-CRD]": 1,
+      " Peterborough": 1,
+      " Gateshead": 1,
+      " North Ayrshire": 1,
+      " Dundee City": 1,
+      " Gwynedd": 1,
+      " Omagh": 1,
+      " Middlesbrough": 1
+    },
+    "relative_amount": 0.078575413799516,
+    "per_capita": 0.0021756169592341
+  },
+  "Norway": {
+    "amount": 140,
+    "unknown": 85,
+    "region": {
+      " Nordland": 4,
+      " Vest-Agder": 5,
+      " M\u00f8re og Romsdal": 3,
+      " Rogaland": 6,
+      " Oslo": 8,
+      " S\u00f8r-Tr\u00f8ndelag": 3,
+      " Troms": 2,
+      " \u00d8stfold": 3,
+      " Finnmark": 2,
+      " Hedmark": 1,
+      " Telemark": 1,
+      " Hordaland": 9,
+      " Akershus": 3,
+      " Oppland": 1,
+      " Vestfold": 4
+    },
+    "relative_amount": 0.013018411753766,
+    "per_capita": 0.0044932454768998
+  },
+  "Romania": {
+    "amount": 19,
+    "unknown": 13,
+    "region": {
+      " Bucuresti": 2,
+      " Cluj": 1,
+      " Galati": 1,
+      " Iasi": 2
+    },
+    "relative_amount": 0.0017667844522968,
+    "per_capita": 0.00016036773300589
+  },
+  "South Africa": {
+    "amount": 51,
+    "region": {
+      " Western Cape": 12,
+      " Gauteng": 19,
+      " Kwazulu-Natal": 2,
+      " Limpopo": 1,
+      " Mpumalanga": 1
+    },
+    "unknown": 16,
+    "relative_amount": 0.0047424214245862,
+    "per_capita": 0.00015362076177567
+  },
+  "Indonesia": {
+    "amount": 4,
+    "unknown": 1,
+    "region": {
+      " Jakarta Raya": 2,
+      " Nusa Tenggara Barat": 1
+    },
+    "relative_amount": 0.00037195462153617,
+    "per_capita": 2.5919617652417e-6
+  },
+  "Australia": {
+    "amount": 460,
+    "region": {
+      " Western Australia": 31,
+      " Victoria": 65,
+      " Queensland": 63,
+      " Northern Territory": 8,
+      " South Australia": 21,
+      " Tasmania": 8,
+      " New South Wales": 62,
+      " Australian Capital Territory": 8
+    },
+    "unknown": 194,
+    "relative_amount": 0.04277478147666,
+    "per_capita": 0.0031974332545037
+  },
+  "Belgium": {
+    "amount": 100,
+    "region": {
+      " Brussels": 14,
+      " Li\u00e8ge": 5,
+      " Vlaams Brabant": 3,
+      " Antwerpen": 9,
+      " Limburg": 2,
+      " Hainaut": 2,
+      " Namur": 1,
+      " West-Vlaanderen": 4,
+      " Luxembourg": 2,
+      " Oost-Vlaanderen": 8
+    },
+    "unknown": 50,
+    "relative_amount": 0.0092988655384043,
+    "per_capita": 0.001480968277863
+  },
+  "Poland": {
+    "amount": 52,
+    "unknown": 33,
+    "region": {
+      " L\u00f3dzkie": 2,
+      " Dolnoslaskie": 4,
+      " Slaskie": 3,
+      " Mazowieckie": 3,
+      " Kujawsko-pomorskie": 1,
+      " Swietokrzyskie": 1,
+      " Malopolskie": 1,
+      " Wielkopolskie": 1,
+      " Podlaskie": 1,
+      " Zachodniopomorskie": 2
+    },
+    "relative_amount": 0.0048354100799702,
+    "per_capita": 0.0002267903553166
+  },
+  "Finland": {
+    "amount": 85,
+    "unknown": 64,
+    "region": {
+      " Lappi": 1,
+      " Kymenlaakso": 1,
+      " Uusimaa": 12,
+      " Etel\u00e4-Pohjanmaa": 1,
+      " Pirkanmaa": 2,
+      " Varsinais-Suomi": 1,
+      " Kainuu": 1,
+      " Pohjois-Savo": 1,
+      " Satakunta": 1
+    },
+    "relative_amount": 0.0079040357076437,
+    "per_capita": 0.0025946351098613
+  },
+  "Netherlands": {
+    "amount": 256,
+    "region": {
+      " Friesland": 3,
+      " Zuid-Holland": 32,
+      " Noord-Holland": 19,
+      " Gelderland": 8,
+      " Overijssel": 6,
+      " Groningen": 5,
+      " Zeeland": 1,
+      " Noord-Brabant": 12,
+      " Utrecht": 6,
+      " Limburg": 11,
+      " Drenthe": 7,
+      " Flevoland": 2
+    },
+    "unknown": 144,
+    "relative_amount": 0.023805095778315,
+    "per_capita": 0.002521499781579
+  },
+  "Canada": {
+    "amount": 572,
+    "region": {
+      " Ontario": 109,
+      " British Columbia": 81,
+      " Quebec": 68,
+      " Alberta": 50,
+      " Saskatchewan": 5,
+      " Newfoundland and Labrador": 2,
+      " Nova Scotia": 8,
+      " New Brunswick": 3,
+      " Manitoba": 5
+    },
+    "unknown": 241,
+    "relative_amount": 0.053189510879673,
+    "per_capita": 0.0026521326069315
+  },
+  "Israel": {
+    "amount": 22,
+    "region": {
+      " Tel-Aviv": 3,
+      " HaMerkaz": 2,
+      " HaZafon": 1,
+      " HaDarom": 1,
+      " Haifa": 1
+    },
+    "unknown": 14,
+    "relative_amount": 0.0020457504184489,
+    "per_capita": 0.00043249338328478
+  },
+  "Austria": {
+    "amount": 128,
+    "region": {
+      " Vorarlberg": 6,
+      " Ober\u00f6sterreich": 6,
+      " Wien": 23,
+      " Nieder\u00f6sterreich": 5,
+      " Burgenland": 1,
+      " Tirol": 6,
+      " Steiermark": 6,
+      " Salzburg": 2,
+      " K\u00e4rnten": 3
+    },
+    "unknown": 70,
+    "relative_amount": 0.011902547889158,
+    "per_capita": 0.0024590741081105
+  },
+  "Russian Federation": {
+    "amount": 195,
+    "region": {
+      " Moskva": 37,
+      " Moskovskaya oblast'": 7,
+      " Sankt-Peterburg": 13,
+      " Krasnodarskiy kray": 7,
+      " Khabarovskiy kray": 2,
+      " Primorskiy kray": 4,
+      " Ul'yanovskaya oblast'": 1,
+      " Sverdlovskaya oblast'": 2,
+      " Arkhangel'skaya oblast'": 3,
+      " Kaluzhskaya oblast'": 1,
+      " Kirovskaya oblast'": 1,
+      " Udmurtskaya Respublika": 1,
+      " Saratovskaya oblast'": 2,
+      " Ryazanskaya oblast'": 1,
+      " Yamalo-Nenetskiy avtonomnyy okrug": 1,
+      " Novosibirskaya oblast'": 4,
+      " Omskaya oblast'": 1,
+      " Samarskaya oblast'": 2,
+      " Irkutskaya oblast'": 1,
+      " Amurskaya oblast'": 1,
+      " Voronezhskaya oblast'": 1,
+      " Rostovskaya oblast'": 2,
+      " Tomskaya oblast'": 1,
+      " Krasnoyarskiy kray": 1,
+      " Volgogradskaya oblast'": 1,
+      " Tyumenskaya oblast'": 1,
+      " Yaroslavskaya oblast'": 1,
+      " Tul'skaya oblast'": 1
+    },
+    "unknown": 94,
+    "relative_amount": 0.018132787799888,
+    "per_capita": 0.00022298542815376
+  },
+  "Czech Republic": {
+    "amount": 40,
+    "unknown": 23,
+    "region": {
+      " Praha 4": 1,
+      " Brno-m\u011bsto": 3,
+      " Zl\u00ednsk\u00fd kraj": 1,
+      " Praha 7": 1,
+      " Praha 11": 1,
+      " T\u00e1bor": 1,
+      " Jihomoravsk\u00fd kraj": 1,
+      " Moravskoslezsk\u00fd kraj": 1,
+      " Stredocesk\u00fd kraj": 3,
+      " Praha 5": 1,
+      " Praha 8": 1,
+      " Praha 10": 1,
+      " Vysocina": 1
+    },
+    "relative_amount": 0.0037195462153617,
+    "per_capita": 0.00063508258207004
+  },
+  "Switzerland": {
+    "amount": 173,
+    "unknown": 102,
+    "region": {
+      " Bern (de)": 13,
+      " Vaud (fr)": 4,
+      " Gen\u00e8ve (fr)": 6,
+      " Valais (fr)": 2,
+      " Aargau (de)": 4,
+      " Graub\u00fcnden (de)": 1,
+      " Luzern (de)": 2,
+      " Z\u00fcrich (de)": 17,
+      " Basel-Landschaft (de)": 5,
+      " Sankt Gallen (de)": 2,
+      " Zug (de)": 1,
+      " Obwalden (de)": 1,
+      " Thurgau (de)": 2,
+      " Uri (de)": 1,
+      " Basel-Stadt (de)": 4,
+      " Solothurn (de)": 1,
+      " Ticino (it)": 3,
+      " Jura (fr)": 1,
+      " Schaffhausen (de)": 1
+    },
+    "relative_amount": 0.016087037381439,
+    "per_capita": 0.003476723591592
+  },
+  "Panama": {
+    "amount": 2,
+    "region": { " Panam\u00e1": 2 },
+    "relative_amount": 0.00018597731076809,
+    "per_capita": 8.7891366345107e-5
+  },
+  "Japan": {
+    "amount": 40,
+    "region": {
+      " T\u00f4ky\u00f4 [Tokyo]": 17,
+      " Niigata": 1,
+      " Kanagawa": 3,
+      " \u00d4saka [Osaka]": 2,
+      " Ibaraki": 1,
+      " Okinawa": 1,
+      " Ky\u00f4to [Kyoto]": 1
+    },
+    "unknown": 14,
+    "relative_amount": 0.0037195462153617,
+    "per_capita": 5.2816120705486e-5
+  },
+  "Ireland": {
+    "amount": 43,
+    "unknown": 26,
+    "region": {
+      " Dublin": 7,
+      " Mayo": 1,
+      " Cork": 3,
+      " Waterford": 1,
+      " Munster": 1,
+      " Leinster": 1,
+      " Sligo": 1,
+      " Galway": 1,
+      " Connaught": 1
+    },
+    "relative_amount": 0.0039985121815139,
+    "per_capita": 0.0011302053600072
+  },
+  "Croatia": {
+    "amount": 19,
+    "region": {
+      " Zagrebacka \u017eupanija": 4,
+      " Osjecko-baranjska \u017eupanija": 1,
+      " Grad Zagreb": 2,
+      " Medimurska \u017eupanija": 1
+    },
+    "unknown": 11,
+    "relative_amount": 0.0017667844522968,
+    "per_capita": 0.00076005262531233
+  },
+  "Denmark": {
+    "amount": 102,
+    "unknown": 88,
+    "region": {
+      " Central Jutland": 2,
+      " Zeeland": 2,
+      " Capital": 6,
+      " North Jutland": 3,
+      " South Denmark": 1
+    },
+    "relative_amount": 0.0094848428491724,
+    "per_capita": 0.0029909168398327
+  },
+  "Italy": {
+    "amount": 124,
+    "region": {
+      " Roma": 12,
+      " Campania": 1,
+      " Umbria": 1,
+      " Treviso": 1,
+      " Toscana": 4,
+      " Ascoli Piceno": 1,
+      " Emilia-Romagna": 2,
+      " Veneto": 5,
+      " Abruzzo": 1,
+      " Lombardia": 4,
+      " Friuli-Venezia Giulia": 2,
+      " Piemonte": 3,
+      " Parma": 1,
+      " Livorno": 2,
+      " Lazio": 3,
+      " Milano": 4,
+      " Bergamo": 1,
+      " Trentino-Alto Adige": 1,
+      " Liguria": 1,
+      " Como": 1,
+      " Genova": 1,
+      " Lodi": 1,
+      " Firenze": 1,
+      " Modena": 1,
+      " Catania": 1,
+      " Calabria": 1,
+      " Bolzano": 1,
+      " Marche": 1,
+      " Grosseto": 1,
+      " Sicilia": 1,
+      " Sardegna": 2,
+      " Salerno": 1,
+      " Mantova": 1,
+      " Cosenza": 1,
+      " Lecce": 1
+    },
+    "unknown": 57,
+    "relative_amount": 0.011530593267621,
+    "per_capita": 0.00034265175507566
+  },
+  "Korea": {
+    "amount": 25,
+    "region": {
+      " Republic of": 14,
+      " Democratic People's Republic Of": 1
+    },
+    "unknown": 10,
+    "relative_amount": 0.0023247163846011,
+    "per_capita": 8.2496914760139e-5
+  },
+  "Brazil": {
+    "amount": 66,
+    "region": {
+      " Rio de Janeiro": 12,
+      " S\u00e3o Paulo": 13,
+      " Mato Grosso do Sul": 1,
+      " Minas Gerais": 3,
+      " Santa Catarina": 3,
+      " Par\u00e1": 1,
+      " Rio Grande do Sul": 2,
+      " Rio Grande do Norte": 1,
+      " Bahia": 1,
+      " Paran\u00e1": 1,
+      " Para\u00edba": 1,
+      " Esp\u00edrito Santo": 1
+    },
+    "unknown": 26,
+    "relative_amount": 0.0061372512553468,
+    "per_capita": 5.3673972391931e-5
+  },
+  "Portugal": {
+    "amount": 36,
+    "unknown": 15,
+    "region": {
+      " Lisboa": 9,
+      " Viana do Castelo": 1,
+      " Regi\u00e3o Aut\u00f3noma da Madeira": 1,
+      " Porto": 4,
+      " Coimbra": 2,
+      " Aveiro": 2,
+      " Regi\u00e3o Aut\u00f3noma dos A\u00e7ores": 1,
+      " Castelo Branco": 1
+    },
+    "relative_amount": 0.0033475915938256,
+    "per_capita": 0.00058169491643246
+  },
+  "Bulgaria": {
+    "amount": 16,
+    "region": {
+      " Vratsa": 1,
+      " Sofia": 3,
+      " Lovech": 1,
+      " Sofia-Grad": 1,
+      " Montana": 1
+    },
+    "unknown": 9,
+    "relative_amount": 0.0014878184861447,
+    "per_capita": 0.00037493637967087
+  },
+  "New Zealand": {
+    "amount": 79,
+    "region": {
+      " Auckland": 24,
+      " Canterbury": 3,
+      " South Island": 2,
+      " Wellington": 5,
+      " North Island": 2,
+      " Southland": 1,
+      " Waikato": 4,
+      " Taranaki": 1,
+      " Otago": 1,
+      " Northland": 1,
+      " Bay of Plenty": 1,
+      " Marlborough District": 1,
+      " West Coast": 1
+    },
+    "unknown": 32,
+    "relative_amount": 0.0073461037753394,
+    "per_capita": 0.0028190384380651
+  },
+  "Mexico": {
+    "amount": 9,
+    "unknown": 4,
+    "region": {
+      " M\u00e9xico": 2,
+      " Aguascalientes": 1,
+      " Jalisco": 1,
+      " Tamaulipas": 1
+    },
+    "relative_amount": 0.00083689789845639,
+    "per_capita": 1.233910567072e-5
+  },
+  "Singapore": {
+    "amount": 21,
+    "unknown": 19,
+    "region": { " Singapore - No State": 2 },
+    "relative_amount": 0.0019527617630649,
+    "per_capita": 0.00063602632511354
+  },
+  "Serbia": {
+    "amount": 7,
+    "unknown": 4,
+    "region": { " Belgrade": 3 },
+    "relative_amount": 0.0006509205876883,
+    "per_capita": 0.00016582912399666
+  },
+  "Hong Kong": {
+    "amount": 13,
+    "unknown": 13,
+    "relative_amount": 0.0012088525199926,
+    "per_capita": 0.00029754362499485
+  },
+  "Slovakia": {
+    "amount": 13,
+    "region": {
+      " \u017dilinsk\u00fd kraj": 1,
+      " Bratislavsk\u00fd kraj": 1,
+      " Pre\u0161ovsk\u00fd kraj": 1
+    },
+    "unknown": 10,
+    "relative_amount": 0.0012088525199926,
+    "per_capita": 0.00040162137190638
+  },
+  "Greece": {
+    "amount": 25,
+    "unknown": 9,
+    "region": {
+      " Magnisia": 1,
+      " Lasithi": 1,
+      " Attiki": 11,
+      " Thessaloniki": 1,
+      " Kyklades": 1,
+      " Acha\u00efa": 1
+    },
+    "relative_amount": 0.0023247163846011,
+    "per_capita": 0.00038597828609054
+  },
+  "Hungary": {
+    "amount": 28,
+    "region": {
+      " Baranya": 3,
+      " Tolna": 1,
+      " Veszpr\u00e9m City": 1,
+      " Budapest": 6,
+      " B\u00e9k\u00e9scsaba": 1,
+      " Csongr\u00e1d": 1
+    },
+    "unknown": 15,
+    "relative_amount": 0.0026036823507532,
+    "per_capita": 0.00047784528955899
+  },
+  "Colombia": {
+    "amount": 5,
+    "unknown": 3,
+    "region": { " Cundinamarca": 2 },
+    "relative_amount": 0.00046494327692022,
+    "per_capita": 1.719016730072e-5
+  },
+  "China": {
+    "amount": 64,
+    "unknown": 37,
+    "region": {
+      " Jiangsu": 2,
+      " Sichuan": 3,
+      " Shandong": 1,
+      " Tianjin": 2,
+      " Shanghai": 4,
+      " Anhui": 2,
+      " Beijing": 2,
+      " Hubei": 2,
+      " Guangdong": 5,
+      " Zhejiang": 1,
+      " Xinjiang": 2,
+      " Yunnan": 1
+    },
+    "relative_amount": 0.0059512739445788,
+    "per_capita": 7.7890829409155e-6
+  },
+  "United Arab Emirates": {
+    "amount": 14,
+    "region": { " Dubayy [Dubai]": 4 },
+    "unknown": 10,
+    "relative_amount": 0.0013018411753766,
+    "per_capita": 0.00023812268056706
+  },
+  "Western Sahara": {
+    "amount": 1,
+    "region": { " Es Semara": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 0.00032824378294504
+  },
+  "Uganda": {
+    "amount": 1,
+    "region": { " Dokolo": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 4.9508240266507e-6
+  },
+  "Turkey": {
+    "amount": 19,
+    "region": {
+      " Istanbul": 8,
+      " Mugla": 1,
+      " Ordu": 1,
+      " Kocaeli": 1,
+      " Izmir": 1,
+      " Adana": 1,
+      " Ankara": 1
+    },
+    "unknown": 5,
+    "relative_amount": 0.0017667844522968,
+    "per_capita": 4.045067793626e-5
+  },
+  "Somalia": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 1.5131182157163e-5
+  },
+  "Saudi Arabia": {
+    "amount": 2,
+    "unknown": 2,
+    "relative_amount": 0.00018597731076809,
+    "per_capita": 1.0396758090015e-5
+  },
+  "Cayman Islands": {
+    "amount": 1,
+    "region": { " George Town": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 0.0028785048785881
+  },
+  "Latvia": {
+    "amount": 6,
+    "unknown": 3,
+    "region": {
+      " Riga": 2,
+      " Jurmala": 1
+    },
+    "relative_amount": 0.00055793193230426,
+    "per_capita": 0.00051276009518519
+  },
+  "Antarctica": {
+    "amount": 14,
+    "unknown": 14,
+    "relative_amount": 0.0013018411753766,
+    "per_capita": 2.346937139669
+  },
+  "Egypt": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 1.8363278247257e-6
+  },
+  "Estonia": {
+    "amount": 7,
+    "unknown": 5,
+    "region": {
+      " Harjumaa": 1,
+      " Tartumaa": 1
+    },
+    "relative_amount": 0.0006509205876883,
+    "per_capita": 0.00089173138813998
+  },
+  "Thailand": {
+    "amount": 7,
+    "unknown": 6,
+    "region": { " Krung Thep Maha Nakhon [Bangkok]": 1 },
+    "relative_amount": 0.0006509205876883,
+    "per_capita": 1.7962815651701e-5
+  },
+  "Puerto Rico": {
+    "amount": 3,
+    "unknown": 3,
+    "relative_amount": 0.00027896596615213,
+    "per_capita": 0.00014475784554685
+  },
+  "Honduras": {
+    "amount": 2,
+    "unknown": 1,
+    "region": { " Comayagua": 1 },
+    "relative_amount": 0.00018597731076809,
+    "per_capita": 3.9092343413214e-5
+  },
+  "French Polynesia": {
+    "amount": 2,
+    "unknown": 2,
+    "relative_amount": 0.00018597731076809,
+    "per_capita": 0.001233542068574
+  },
+  "Kazakhstan": {
+    "amount": 3,
+    "unknown": 2,
+    "region": { " Atyrau oblysy": 1 },
+    "relative_amount": 0.00027896596615213,
+    "per_capita": 2.8328138102293e-5
+  },
+  "Ukraine": {
+    "amount": 34,
+    "unknown": 16,
+    "region": {
+      " Zaporiz'ka Oblast'": 2,
+      " Ky\u00efv": 6,
+      " Dnipropetrovs'ka Oblast'": 1,
+      " Luhans'ka Oblast'": 2,
+      " Donets'ka Oblast'": 1,
+      " Khersons'ka Oblast'": 1,
+      " Kharkivs'ka Oblast'": 1,
+      " Poltavs'ka Oblast'": 2,
+      " Odes'ka Oblast'": 1,
+      " Mykola\u00efvs'ka Oblast'": 1
+    },
+    "relative_amount": 0.0031616142830575,
+    "per_capita": 0.00013350632469942
+  },
+  "Trinidad and Tobago": {
+    "amount": 3,
+    "unknown": 3,
+    "relative_amount": 0.00027896596615213,
+    "per_capita": 0.00037262161804181
+  },
+  "Lithuania": {
+    "amount": 8,
+    "unknown": 7,
+    "region": { " Vilniaus Apskritis": 1 },
+    "relative_amount": 0.00074390924307235,
+    "per_capita": 0.00046691144324143
+  },
+  "Kuwait": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 4.0069806642706e-5
+  },
+  "Lebanon": {
+    "amount": 1,
+    "region": { " Beirut": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 2.7995719291785e-5
+  },
+  "Fiji": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 0.00019335451801524
+  },
+  "Belarus": {
+    "amount": 3,
+    "unknown": 2,
+    "region": { " Minskaya voblasts": 1 },
+    "relative_amount": 0.00027896596615213,
+    "per_capita": 5.2945676919751e-5
+  },
+  "Argentina": {
+    "amount": 34,
+    "region": {
+      " Entre R\u00edos": 1,
+      " Buenos Aires": 15,
+      " Santa Fe": 2,
+      " C\u00f3rdoba": 1,
+      " Chaco": 1,
+      " Santa Cruz": 1,
+      " Ciudad Aut\u00f3noma de Buenos Aires": 2
+    },
+    "unknown": 11,
+    "relative_amount": 0.0031616142830575,
+    "per_capita": 0.0001307559573221
+  },
+  "Cura\u00e7ao": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 0.0010826344563152
+  },
+  "Svalbard And Jan Mayen": {
+    "amount": 2,
+    "unknown": 2,
+    "relative_amount": 0.00018597731076809,
+    "per_capita": 0.13086523584638
+  },
+  "Zambia": {
+    "amount": 1,
+    "region": { " Lusaka": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 1.0520873481951e-5
+  },
+  "Taiwan": {
+    "amount": 4,
+    "unknown": 3,
+    "region": { " Province Of China": 1 },
+    "relative_amount": 0.00037195462153617,
+    "per_capita": 2.8530124301726e-5
+  },
+  "United States Minor Outlying Islands": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5
+  },
+  "Peru": {
+    "amount": 1,
+    "region": { " Lima": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 5.3237627186645e-6
+  },
+  "Andorra": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 0.0021488241484761
+  },
+  "Bouvet Island": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": false
+  },
+  "Georgia": {
+    "amount": 4,
+    "region": { " Tbilisi": 1 },
+    "unknown": 3,
+    "relative_amount": 0.00037195462153617,
+    "per_capita": 0.00018023692841545
+  },
+  "Chile": {
+    "amount": 5,
+    "region": {
+      " Regi\u00f3n Metropolitana de Santiago": 1,
+      " Valpara\u00edso": 1
+    },
+    "unknown": 3,
+    "relative_amount": 0.00046494327692022,
+    "per_capita": 4.607500236897e-5
+  },
+  "Cyprus": {
+    "amount": 3,
+    "unknown": 3,
+    "relative_amount": 0.00027896596615213,
+    "per_capita": 0.00059376045024514
+  },
+  "Faroe Islands": {
+    "amount": 2,
+    "unknown": 2,
+    "relative_amount": 0.00018597731076809,
+    "per_capita": 0.0067902773460471
+  },
+  "Iran": {
+    "amount": 1,
+    "region": { " Islamic Republic Of": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 2.1121151358287e-6
+  },
+  "Barbados": {
+    "amount": 3,
+    "unknown": 3,
+    "relative_amount": 0.00027896596615213,
+    "per_capita": 0.0017646143907285
+  },
+  "American Samoa": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 0.0029358733295834
+  },
+  "Morocco": {
+    "amount": 2,
+    "unknown": 1,
+    "region": { " Casablanca [Dar el Be\u00efda]*": 1 },
+    "relative_amount": 0.00018597731076809,
+    "per_capita": 1.0057036148013e-5
+  },
+  "Dominican Republic": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 1.6638969564822e-5
+  },
+  "Iceland": {
+    "amount": 4,
+    "region": { " Reykjav\u00edk": 1 },
+    "unknown": 3,
+    "relative_amount": 0.00037195462153617,
+    "per_capita": 0.0020058434593983
+  },
+  "Congo": {
+    "amount": 1,
+    "region": { " The Democratic Republic Of The": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 3.5359284353346e-5
+  },
+  "Viet Nam": {
+    "amount": 1,
+    "region": { " Ha Noi": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 1.8083966248027e-6
+  },
+  "Uruguay": {
+    "amount": 2,
+    "region": { " San Jos\u00e9": 1 },
+    "unknown": 1,
+    "relative_amount": 0.00018597731076809,
+    "per_capita": 9.6337743465337e-5
+  },
+  "Isle of Man": {
+    "amount": 2,
+    "unknown": 2,
+    "relative_amount": 0.00018597731076809,
+    "per_capita": 0.003967912875468
+  },
+  "Nicaragua": {
+    "amount": 1,
+    "region": { " Le\u00f3n": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 2.6767733855367e-5
+  },
+  "R\u00e9union": {
+    "amount": 3,
+    "unknown": 3,
+    "relative_amount": 0.00027896596615213,
+    "per_capita": 0.00059801504131832
+  },
+  "Sri Lanka": {
+    "amount": 3,
+    "unknown": 3,
+    "relative_amount": 0.00027896596615213,
+    "per_capita": 2.398717453771e-5
+  },
+  "Malta": {
+    "amount": 3,
+    "unknown": 2,
+    "region": { " Pembroke": 1 },
+    "relative_amount": 0.00027896596615213,
+    "per_capita": 0.0011822614422678
+  },
+  "Macedonia": {
+    "amount": 1,
+    "region": { " the Former Yugoslav Republic Of": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 8.143560414411e-5
+  },
+  "Bangladesh": {
+    "amount": 3,
+    "region": { " Dhaka": 1 },
+    "unknown": 2,
+    "relative_amount": 0.00027896596615213,
+    "per_capita": 3.1235645487848e-6
+  },
+  "Iraq": {
+    "amount": 1,
+    "region": { " Baghdad": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 4.4250973864618e-6
+  },
+  "Luxembourg": {
+    "amount": 4,
+    "unknown": 4,
+    "relative_amount": 0.00037195462153617,
+    "per_capita": 0.0011637512469227
+  },
+  "Oman": {
+    "amount": 1,
+    "region": { " Masqat": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 3.7926091164952e-5
+  },
+  "Guyana": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 0.0002244455310205
+  },
+  "Jordan": {
+    "amount": 1,
+    "region": { " Al Balqa'": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 1.7587435197288e-5
+  },
+  "Azerbaijan": {
+    "amount": 2,
+    "unknown": 2,
+    "relative_amount": 0.00018597731076809,
+    "per_capita": 3.4456269897582e-5
+  },
+  "Bahamas": {
+    "amount": 4,
+    "unknown": 4,
+    "relative_amount": 0.00037195462153617,
+    "per_capita": 0.001773763274989
+  },
+  "Malaysia": {
+    "amount": 3,
+    "region": {
+      " Selangor": 1,
+      " Pulau Pinang": 1
+    },
+    "unknown": 1,
+    "relative_amount": 0.00027896596615213,
+    "per_capita": 1.6013642403515e-5
+  },
+  "Syrian Arab Republic": {
+    "amount": 1,
+    "region": { " As Suwayda'": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 9.0302934237886e-6
+  },
+  "Venezuela": {
+    "amount": 3,
+    "region": { " Bolivarian Republic of": 3 },
+    "relative_amount": 0.00027896596615213,
+    "per_capita": 1.6208062257124e-5
+  },
+  "Seychelles": {
+    "amount": 1,
+    "region": { " Anse Boileau": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 0.0018341178021796
+  },
+  "Philippines": {
+    "amount": 3,
+    "unknown": 1,
+    "region": {
+      " National Capital Region": 1,
+      " Nueva Ecija": 1
+    },
+    "relative_amount": 0.00027896596615213,
+    "per_capita": 4.8694430213617e-6
+  },
+  "Virgin Islands": {
+    "amount": 1,
+    "region": { " U.S.": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 0.0058791599606934
+  },
+  "India": {
+    "amount": 4,
+    "region": {
+      " Karnataka": 1,
+      " Maharashtra": 1
+    },
+    "unknown": 2,
+    "relative_amount": 0.00037195462153617,
+    "per_capita": 5.1771795189726e-7
+  },
+  "Papua New Guinea": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 2.0737826381386e-5
+  },
+  "Ecuador": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 1.0131778291227e-5
+  },
+  "Christmas Island": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 0.080906547837457
+  },
+  "New Caledonia": {
+    "amount": 2,
+    "unknown": 2,
+    "relative_amount": 0.00018597731076809,
+    "per_capita": 0.0012474624274499
+  },
+  "Costa Rica": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 3.427921785187e-5
+  },
+  "Mauritius": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 0.00013274301585442
+  },
+  "Angola": {
+    "amount": 1,
+    "region": { " Luanda": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 6.4805306602448e-6
+  },
+  "Namibia": {
+    "amount": 2,
+    "unknown": 1,
+    "region": { " Khomas": 1 },
+    "relative_amount": 0.00018597731076809,
+    "per_capita": 0.00014424301546834
+  },
+  "Nigeria": {
+    "amount": 1,
+    "region": { " Lagos": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 8.9651938690831e-7
+  },
+  "Montenegro": {
+    "amount": 1,
+    "region": { " Nik\u0161ic\u00b4": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 0.00026959741258457
+  },
+  "Qatar": {
+    "amount": 1,
+    "unknown": 1,
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 6.4786172291472e-5
+  },
+  "Saint Helena": {
+    "amount": 1,
+    "region": { " Ascension and Tristan Da Cunha": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 0.039397971120849
+  },
+  "Jersey": {
+    "amount": 2,
+    "unknown": 2,
+    "relative_amount": 0.00018597731076809,
+    "per_capita": 0.0033261580777621
+  },
+  "Bosnia and Herzegovina": {
+    "amount": 1,
+    "region": { " Tuzlanski kanton": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 4.7474035329253e-5
+  },
+  "Pakistan": {
+    "amount": 1,
+    "region": { " Islamabad": 1 },
+    "relative_amount": 9.2988655384043e-5,
+    "per_capita": 8.6355860182139e-7
+  }
+}
